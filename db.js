@@ -1,9 +1,9 @@
-const items = require("./data/users");
-const tags = require("./data/bonds");
+const users = require("./data/users");
+const bonds = require("./data/bonds");
 
 module.exports = {
-  items,
-  tags
+  users,
+  bonds
 }
 
 
